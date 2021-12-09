@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE="/var/lib/jenkins/workspace/SampleWebApp-Demo1"
-BUILD_DIR="/opt/"
+BUILD_DIR="/opt"
 
 rm -rf /opt/apache-tomcat-9.0.56/webapps/*
 
