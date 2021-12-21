@@ -1,4 +1,4 @@
-SOURCE="/var/lib/jenkins/workspace/SampleWebApp-Demo1"
+SOURCE="/var/lib/jenkins/workspace/wildfly-standalone-SampleWebApp"
 BUILD_DIR="/opt/wildfly-26.0.0.Final"
 
 
